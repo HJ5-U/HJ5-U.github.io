@@ -39,6 +39,11 @@ theme = 'hugo-book'
     name = "Home"
     url = "/"
     weight = 1
+  
+  [[menu.after]]
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 10
 
 [markup]
   [markup.goldmark.renderer]
