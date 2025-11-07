@@ -1,0 +1,48 @@
+baseURL = 'https://HJ5-U.github.io/'  # Replace <username> with your GitHub username
+languageCode = 'en-us'
+title = 'Project2 - Student API Documentation'
+theme = 'hugo-book'
+
+# Book theme configuration
+[params]
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = ''
+  
+  # Enable "Edit this page" links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # BookEditPath = 'edit/main/exampleSite'
+  
+  # (Optional) Enable or disable table of contents
+  BookToC = true
+  
+  # (Optional) Set the height of the menu
+  BookMenuHeight = '300px'
+  
+  # (Optional) Set the width of the left menu
+  BookMenuWidth = '250px'
+  
+  # (Optional) Set to true to hide 'Last modified' and related info
+  BookHideLastModified = false
+  
+  # (Optional) Set to false to disable search
+  BookSearch = true
+  
+  # (Optional) Set to false to disable comments
+  BookComments = false
+  
+  # (Optional) Set to false to disable collapsible sections
+  BookCollapseSection = false
+
+[menu]
+  [[menu.before]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
