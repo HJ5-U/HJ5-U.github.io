@@ -1,8 +1,7 @@
 ---
 title: "Portfolio"
-weight: 5
-bookFlatSection: false
 bookCollapseSection: false
+weight: 10
 ---
 
 # My Development Portfolio
