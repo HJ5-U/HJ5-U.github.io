@@ -54,22 +54,22 @@ This documentation covers the Student API built with Laravel, featuring:
 ## Example Images
 
 ### run.sh
-![Run.sh1](/presentation/docs/Code%20Pics/Run.sh_success_1-1.png)
-![Run.sh2](/presentation/docs/Code%20Pics/Run.sh_success_1-2.png)
-![Run.sh3](/presentation/docs/Code%20Pics/Run.sh_success_2.png)
+![Run.sh1](/images/Run.sh_success_1-1.png)
+![Run.sh2](/images/Run.sh_success_1-2.png)
+![Run.sh3](/images/Run.sh_success_2.png)
 
 ### setup.sh
-![Setup.sh](/presentation/docs/Code%20Pics/setup.sh_success.png)
+![Setup.sh](/images/setup.sh_success.png)
 
 ### Page examples
-![Login](/presentation/docs/Code%20Pics/Login_Page.png)
-![Register](/presentation/docs/Code%20Pics/Register.png)
-![ForgotPWD](/presentation/docs/Code%20Pics/ForgotPWD.png)
-![PWDReset](/presentation/docs/Code%20Pics/PWDReset.png)
-![Main_Menu](/presentation/docs/Code%20Pics/Menu.png)
-![Student_Database](/presentation/docs/Code%20Pics/Student_Database.png)
-![Profile](/presentation/docs/Code%20Pics/Profile.png)
-![User_Management](/presentation/docs/Code%20Pics/User_Management.png)
+![Login](/images/Login_Page.png)
+![Register](/images/Register.png)
+![ForgotPWD](/images/ForgotPWD.png)
+![PWDReset](/images/PWDReset.png)
+![Main_Menu](/images/Menu.png)
+![Student_Database](/images/Student_Database.png)
+![Profile](/images/Profile.png)
+![User_Management](/images/User_Management.png)
 
 
 
