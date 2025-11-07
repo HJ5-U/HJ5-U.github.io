@@ -75,7 +75,7 @@ This documentation covers the Student API built with Laravel, featuring:
 
 ## Links
 - Live Demo: http://localhost:8080/login
-- GetHub Repository: 
+- GetHub Repository: https://github.com/HJ5-U/ASE-230/tree/main
 
 ---
 

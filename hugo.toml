@@ -1,4 +1,4 @@
-baseURL = 'https://HJ5-U.github.io/'  # Replace <username> with your GitHub username
+baseURL = 'https://HJ5-U.github.io/' 
 languageCode = 'en-us'
 title = 'Project2 - Student API Documentation'
 theme = 'hugo-book'
