@@ -1,6 +1,7 @@
 ---
 title: "Portfolio"
 weight: 5
+bookFlatSection: false
 bookCollapseSection: false
 ---
 
